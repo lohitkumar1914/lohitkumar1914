@@ -74,5 +74,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/naram-lohit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lohit kumar" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/lohitkumar1914/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lohit leets" height="30" width="40" /></a>
+<a href="https://x.com/lohit2k04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lohit leets" height="30" width="40" /></a>
 </p>
 
