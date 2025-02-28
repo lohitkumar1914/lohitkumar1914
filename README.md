@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm lohit</h2>
+<h1 align="center">Hey there! I'm lohit</h1>
 
 <h3 align="center">A curious developer with a passion for exploring all things tech!</h3>
 <!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
