@@ -1,3 +1,9 @@
+![Banner](./assets/banner.gif)
+
+Image Credit: [pixeljeff](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885)
+
+
+
 <h1 align="center">Hey there! I'm lohit</h1>
 
 <h3 align="center">A curious developer with a passion for exploring all things tech!</h3>
